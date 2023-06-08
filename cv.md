@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My CV
-subtitle:
+title: 
+subtitle: My CV
 ---
 
 ## Education

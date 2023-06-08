@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Portfolio
-subtitle: 
+title: 
+subtitle: My Portfolio
 ---
 
 ### 1. Predicting Merger Decision Outcomes of the European Commission: A Natural Language Processing and Machine Learning approach
@@ -9,7 +9,7 @@ _Master Thesis, Hertie School_ (October 2022 --- May 2023)
 
 A novel application of Natural Language Processing and Machine Learning to predict merger decision outcomes of the European Commission by analyzing extracted text from official merger decisions. Identified a Support Vector Machine linear classifier as the best-performing model in predicting mergers that were either approved unconditionally or subject to conditions with an 84% recall and 63% precision.
 
-- _Read more on this_ [_post_](https://adellegia.github.io/2023-06-08-thesis/)
+- _Read more on this_ [_post._](https://adellegia.github.io/2023-06-08-thesis/)
 - _Github repo:_ [predicting-merger-decision-outcomes](https://github.com/adellegia/predicting-merger-decision-outcomes)
 
 ### 2. Analyzing the German Public Procurement Network: Implications for Corruption Risk
