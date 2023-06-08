@@ -22,6 +22,13 @@ subtitle:
 - Competition Policy Researcher at _Philippine Competition Commission_ (November 2016 --- April 2019)
 
 
+## Skills
+- Programming Languages: R, Python, SQL (sqldf and SQLite in R), LaTeX (Overleaf)
+- Programming Tools: RStudio, Anaconda, Github, VS Code, Spyder, Jupyter Notebook, Google Colab, Power BI
+- Statistical Tools: STATA, CSPro, SAS, Eviews, SPSS
+- Version Control: Git
+- Communication: Fluent in English and Tagalog
+
 ## Publications
 
 Arbo, M.A.G. (2023). Predicting merger decision outcomes of the European Commission: A Natural Language Processing and Machine Learning approach. _Thesis for Master of Data Science for Public Policy._ Hertie School.
