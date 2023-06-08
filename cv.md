@@ -24,9 +24,13 @@ subtitle:
 
 ## Skills
 - Programming Languages: R, Python, SQL (sqldf and SQLite in R), LaTeX (Overleaf)
+
 - Programming Tools: RStudio, Anaconda, Github, VS Code, Spyder, Jupyter Notebook, Google Colab, Power BI
+
 - Statistical Tools: STATA, CSPro, SAS, Eviews, SPSS
+
 - Version Control: Git
+
 - Communication: Fluent in English and Tagalog
 
 ## Publications
