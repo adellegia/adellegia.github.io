@@ -27,6 +27,9 @@ WZB Berlin Social Science Center (October 2021 --- July 2022)
 - Economic Research and Statistics Consultant <br>
 Asian Development Bank (April 2019 --- August 2021)
 
+- Competition Policy Consultant <br>
+Philippine Competition Commission (February 2021 --- April 2021)
+
 - Competition Policy Researcher <br>
 Philippine Competition Commission (November 2016 --- April 2019)
 
