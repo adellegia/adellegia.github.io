@@ -11,7 +11,7 @@ _Master Thesis, Hertie School_ (October 2022 --- May 2023)
 
 A novel application of Natural Language Processing and Machine Learning to predict merger decision outcomes of the European Commission by analyzing extracted text from official merger decisions. Identified a Support Vector Machine linear classifier as the best-performing model in predicting mergers that were either approved unconditionally or subject to conditions with an 84% recall and 63% precision.
 
-- _Read more on this_ [_post._](https://adellegia.github.io/2023-06-08-thesis/)
+- _Read more on this_ [_post._](https://adellegia.github.io/2023-06-08-predicting-merger-decision-outcomes/)
 - _Github repo:_ [predicting-merger-decision-outcomes](https://github.com/adellegia/predicting-merger-decision-outcomes)
 
 #### 2. Analyzing the German Public Procurement Network: Implications for Corruption Risk
@@ -19,6 +19,7 @@ _A Research Project for Applied Network Analysis, Hertie School_ (April 2023 ---
 
 Analysis of corruption risk using single-bidding rates in centralized German public contracts 2008-2016 by conducting network-based approaches such as R-A clustering, degree distributions, k-core decomposition, modularity maximization, and measurement of nodal centrality.
 
+- _Read more on this_ [_post._](https://adellegia.github.io/2023-06-08-network-analysis-DE-procurements)
 - _Github repo:_ [network-analysis-EU-procurements](https://github.com/adellegia/network-analysis-EU-procurements)
 
 #### 3. Classification of Unstructured Documents: Transfer Learning with BERT

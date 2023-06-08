@@ -4,9 +4,9 @@ title: Predicting merger decision outcomes of the European Commission
 subtitle: A Natural Language Processing and Machine Learning approach
 cover-img: 
 thumbnail-img: /assets/img/thesis_poster.png
-gh-repo: https://github.com/adellegia/predicting-merger-decision-outcomes
+gh-repo: adellegia/predicting-merger-decision-outcomes
 gh-badge: [star, fork, follow]
-tags: [NLP, Machine Learning, European Commission, Antitrust, Mergers and Acquisitions]
+tags: [NLP, machine learning, European Commission, antitrust, mergers and acquisitions]
 ---
 
 Recent developments in data science provide new opportunities for analyzing large volumes of unstructured data, such as merger decision reports. While some studies have used Natural Language Processing (NLP) and Machine Learning (ML) techniques to forecast judicial decisions, text-based prediction of merger decision outcomes remains unexplored.
