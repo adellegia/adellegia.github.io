@@ -1,10 +1,11 @@
 ---
 layout: page
-subtitle: About me
+title: About me
+subtitle: 
 cover-img: 
 ---
 
-![Adelle](/assets/img/arbo_ma_adelle_gia.jpg){: .mx-auto.d-block :}
+<img src="/assets/img/arbo_ma_adelle_gia.jpg" alt="Adelle" width="300" height="auto" style="display: block; margin: 0 auto;">
 
 
 Hello there! My name is Adelle Arbo. Originally from the tropical country of the Philippines, I made the exciting decision to relocate to the vibrant city of Berlin.

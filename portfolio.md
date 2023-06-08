@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: My Portfolio
+title: My Portfolio
+subtitle: 
 ---
 
 ### 1. Predicting Merger Decision Outcomes of the European Commission: A Natural Language Processing and Machine Learning approach
