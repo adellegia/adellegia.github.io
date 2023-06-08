@@ -6,6 +6,8 @@ subtitle: Watch My Tutorial Videos in R and Python
 
 ## Data Wrangling at Scale with R's data.table
 
+_Github repo:_ [Data-Wrangling-R-data.table](https://github.com/adellegia/Data-Wrangling-R-data.table)
+
 In this tutorial, we build a text classification pipeline for unstructured documents using a transformer-based deep learning model called Bidirectional Encoder Representations from Transformers (BERT). We demonstrate the application of a document classification algorithm for the European Commission (EC).
 
 Whenever new legislation is proposed, the EC opens public consultations where various stakeholders (e.g. businesses, academia, law firms, associations, private individuals) submit documents that detail their views on the proposal. The EC receives anywhere between 10,000 to 4 million of these public consultation documents annually. Using machine learning and deep learning methods to process these documents will streamline the Commission's review of stakeholder comments, which will consequently allow them to integrate more information into their policymaking process.
