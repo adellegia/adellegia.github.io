@@ -7,13 +7,14 @@ thumbnail-img: /assets/img/thesis_poster.png
 gh-repo: adellegia/predicting-merger-decision-outcomes
 gh-badge: [star, fork, follow]
 tags: [NLP, machine learning, European Commission, antitrust, mergers and acquisitions]
+comments: true
 ---
-
-![Thesis poster](/assets/img/thesis_poster.png)
 
 Recent developments in data science provide new opportunities for analyzing large volumes of unstructured data, such as merger decision reports. While some studies have used Natural Language Processing (NLP) and Machine Learning (ML) techniques to forecast judicial decisions, text-based prediction of merger decision outcomes remains unexplored.
 
 This thesis aims to explore the feasibility of applying NLP and ML to predict antitrust decisions under the EU Merger Regulation 2004 and understand the European Commission’s (EC) merger review process. By analyzing the language used in merger decision reports, as proxy for the facts and conditions of a proposed merger which would otherwise only be available in the confidential merger filings, this study seeks to uncover patterns and factors that contribute to the EC’s decision-making process. Given the limited review period and the numerous notifications received by the EC, building a text-based predictive model can aid merger review. The findings of this study have important implications for antitrust agencies, firms, and researchers interested in understanding the drivers of merger decisions.
+
+![Thesis poster](/assets/img/thesis_poster.png)
 
 Results show that a Support Vector Machine (SVM) linear classifier was the best-performing model in predicting whether a merger was approved with or without conditions and it was better at predicting cases ‘approved with conditions’ than cases ‘approved unconditionally.’ It achieved a high recall of 84% identifying cases with serious anticompetitive effects to prevent potential competition harm like higher prices, decreased quality of goods and services, and reduced innovation. Practical implementation will require a thorough cost-benefit analysis to determine the optimal trade-off between recall and precision, which ultimately depends on the competition authority’s objectives and priorities.
 

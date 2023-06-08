@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/k_core_comm_DE_2008.png
 gh-repo: adellegia/predicting-merger-decision-outcomes
 gh-badge: [star, fork, follow]
 tags: [network analysis, public procurement, corruption networks, procurement data]
+comments: true
 ---
 
 Public procurement contracts are an essential part of the public sector. They are a critical instrument for governments to acquire goods and services are essential for ensuring public services are delivered effectively. However, these contracts can be susceptible to corruption, fraud, and other forms of misconduct, which can result in significant financial losses for the government and undermine public trust.
