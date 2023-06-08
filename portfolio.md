@@ -20,7 +20,7 @@ Analysis of corruption risk using single-bidding rates in centralized German pub
 _A Tutorial Project for Deep Learning, Hertie School_ (November 2022 --- December 2022) <br>
 _Github repo:_ [EU-DMA-Text-Classification-BERT](https://github.com/adellegia/watermelon)
 
-A Python tutorial on building a text classification pipeline for unstructured documents using Bidirectional Encoder Representations from Transformers (BERT). The tutorial focuses on predicting stakeholder agreement with the EU's Digital Markets Act proposal using public consultation documents. 
+A Python tutorial for building a text classification pipeline using unstructured documents with Bidirectional Encoder Representations from Transformers (BERT). The tutorial focuses on predicting stakeholder agreement with the EU's Digital Markets Act proposal using public consultation documents.
 
 #### 4. Emotionality and Rationality in Speeches of EU Commissioners 
 _A Research Project for Text as Data , Hertie School_ (November 2022) <br>
@@ -32,7 +32,7 @@ Investigated the variation in the use of reason and emotion in communicating pol
 _A Research Project for Machine Learning, Hertie School_ (February 2022 --- May 2022) <br>
 _Github repo:_ [Traffic-Accident-Prediction-Berlin](https://github.com/adellegia/Traffic-Accident-Prediction-Berlin) 
 
-Investigated the variation in the use of reason and emotion in communicating politics of the European Commission across time and events using word2vec word embeddings and structural topic modeling. 
+Predicted the occurrence of accidents on a given road segment at a given date and hour in Berlin by training machine learning models such as Logistic Regression, Random Forest, Balanced Random Forest, Balanced Bagging, Support Vector Classifier, and XGBoost using data on road accident 2018-2020, road network, and historic weather. 
 
 #### 6. Spotify-MatchedR
 _A Research Project for Machine Learning, Hertie School_ (November 2021 --- December 2021) <br>
