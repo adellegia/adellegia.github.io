@@ -8,7 +8,7 @@ subtitle: Unveiling My Professional and Educational Journey
 
 - Master of Data Science for Public Policy, Hertie School of Governance in Berlin (September 2021 --- June 2023)
 
-- Bachelor of Science in Statistics (_Cum Laude_) University of the Philippines --- Diliman (June 2012 --- June 2016)
+- Bachelor of Science in Statistics (_Cum Laude_), University of the Philippines --- Diliman (June 2012 --- June 2016)
 
 
 ## Professional Experience
