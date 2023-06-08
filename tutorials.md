@@ -16,7 +16,7 @@ By the end of this tutorial you will understand how to:
 3. Build a text/document classifier with BERT
 4. Compare BERT with text classifiers built using other models
 
-[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=77h4z4AriMg&ab_channel=Ma.AdelleGiaArbo)
+[![](https://markdown-videos.deta.dev/youtube/watch?v=77h4z4AriMg&ab_channel=Ma.AdelleGiaArbo)](https://www.youtube.com/watch?v=77h4z4AriMg&ab_channel=Ma.AdelleGiaArbo)
 
 ## Text Classification with BERT
 
@@ -28,4 +28,4 @@ The goals of this session are to:
 2. demonstrate the ease of using data.table through highlighting the most common data wrangling functions
 3. provide you with a practice exercise and further resources.
 
-[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=2cp7hqF7W6U&ab_channel=Ma.AdelleGiaArbo)
+[![](https://markdown-videos.deta.dev/youtube/watch?v=2cp7hqF7W6U&ab_channel=Ma.AdelleGiaArbo)](https://www.youtube.com/watch?v=2cp7hqF7W6U&ab_channel=Ma.AdelleGiaArbo)
