@@ -6,12 +6,6 @@ subtitle: Watch My Tutorial Videos in R and Python
 
 ## Data Wrangling at Scale with R's data.table
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=77h4z4AriMg&ab_channel=Ma.AdelleGiaArbo" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 In this tutorial, we build a text classification pipeline for unstructured documents using a transformer-based deep learning model called Bidirectional Encoder Representations from Transformers (BERT). We demonstrate the application of a document classification algorithm for the European Commission (EC).
 
 Whenever new legislation is proposed, the EC opens public consultations where various stakeholders (e.g. businesses, academia, law firms, associations, private individuals) submit documents that detail their views on the proposal. The EC receives anywhere between 10,000 to 4 million of these public consultation documents annually. Using machine learning and deep learning methods to process these documents will streamline the Commission's review of stakeholder comments, which will consequently allow them to integrate more information into their policymaking process.
@@ -22,13 +16,9 @@ By the end of this tutorial you will understand how to:
 3. Build a text/document classifier with BERT
 4. Compare BERT with text classifiers built using other models
 
-## Text Classification with BERT
+[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=77h4z4AriMg&ab_channel=Ma.AdelleGiaArbo)
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=2cp7hqF7W6U&ab_channel=Ma.AdelleGiaArbo" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+## Text Classification with BERT
 
 This session will introduce you to the modern data wrangling workflow with data.table. Data wrangling is one of the core steps in the data science workflow, specifically when cleaning raw data sets into a format that is readily analyzable. Data.table offers fast and memory efficient: file reader and writer, aggregations, updates, equi, non-equi, rolling, range and interval joins, in a short and flexible syntax, for faster development. It is commonly used for data manipulation challenges, including the manipulation of datasets and variables.
 
@@ -38,3 +28,4 @@ The goals of this session are to:
 2. demonstrate the ease of using data.table through highlighting the most common data wrangling functions
 3. provide you with a practice exercise and further resources.
 
+[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=2cp7hqF7W6U&ab_channel=Ma.AdelleGiaArbo)
