@@ -1,10 +1,8 @@
 ---
 layout: page
-title: My Portfolio
-subtitle: Explore my Ongoing and Past Data Science Projects
+title: Adelle's Portfolio
+subtitle: Explore My Ongoing and Past Data Science Projects
 ---
-
-Welcome to my portfolio! Here, you can discover a collection of my ongoing and past data science projects that showcase my skills, expertise, and passion for the field.
 
 #### 1. Predicting Merger Decision Outcomes of the European Commission: A Natural Language Processing and Machine Learning approach
 _Master Thesis, Hertie School_ (October 2022 --- May 2023)

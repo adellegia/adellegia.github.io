@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Ma. Adelle Gia Arbo
 cover-img: 
 ---
 
