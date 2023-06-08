@@ -4,6 +4,8 @@ title: Adelle's CV
 subtitle: My Professional and Educational Backgound
 ---
 
+<a href="/assets/pdfs/Arbo_Ma_Adelle_Gia_CV.pdf" title="Download" download>Download CV</a>
+
 ## Education
 
 - Master of Data Science for Public Policy (_Merit Scholar_) <br>
