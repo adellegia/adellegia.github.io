@@ -22,6 +22,9 @@ By the end of this tutorial you will understand how to:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/77h4z4AriMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+<br>
+<br>
+
 ## Text Classification with BERT
 
 _Github repo:_ [EU-DMA-Text-Classification-BERT](https://github.com/adellegia/watermelon)

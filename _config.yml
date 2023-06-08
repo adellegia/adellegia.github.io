@@ -51,13 +51,13 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "giarbo.28@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: adellegia
   twitter: adellearbo
   linkedin: ma-adelle-gia-arbo
-#   facebook: deanattali
-#   patreon: DeanAttali
-#   youtube: c/daattali
+#  facebook: deanattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
