@@ -3,7 +3,7 @@ layout: post
 title: Analyzing the network structure of public procurement in Germany
 subtitle: Implications for corruption risk using single bidder rates
 cover-img: 
-thumbnail-img: /assets/img/thesis_poster.png
+thumbnail-img: /assets/img/k_core_comm_DE_2008.png
 gh-repo: adellegia/predicting-merger-decision-outcomes
 gh-badge: [star, fork, follow]
 tags: [network analysis, public procurement, corruption networks, Procurement data]
