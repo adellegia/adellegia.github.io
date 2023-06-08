@@ -24,6 +24,8 @@ By the end of this tutorial you will understand how to:
 
 ## Text Classification with BERT
 
+_Github repo:_ [EU-DMA-Text-Classification-BERT](https://github.com/adellegia/watermelon)
+
 This session will introduce you to the modern data wrangling workflow with data.table. Data wrangling is one of the core steps in the data science workflow, specifically when cleaning raw data sets into a format that is readily analyzable. Data.table offers fast and memory efficient: file reader and writer, aggregations, updates, equi, non-equi, rolling, range and interval joins, in a short and flexible syntax, for faster development. It is commonly used for data manipulation challenges, including the manipulation of datasets and variables.
 
 Main learning objectives:

@@ -18,7 +18,7 @@ Analysis of corruption risk using single-bidding rates in centralized German pub
 
 #### 3. Classification of Unstructured Documents: Transfer Learning with BERT
 _A Tutorial Project for Deep Learning, Hertie School_ (November 2022 --- December 2022) <br>
-_Github repo:_ [watermelon](https://github.com/adellegia/watermelon)
+_Github repo:_ [EU-DMA-Text-Classification-BERT](https://github.com/adellegia/watermelon)
 
 A Python tutorial on building a text classification pipeline for unstructured documents using Bidirectional Encoder Representations from Transformers (BERT). The tutorial focuses on predicting stakeholder agreement with the EU's Digital Markets Act proposal using public consultation documents. 
 

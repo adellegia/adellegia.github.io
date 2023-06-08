@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adelle's CV
-subtitle: Unveiling My Professional and Educational Journey
+subtitle: My Professional and Educational Backgound
 ---
 
 ## Education
