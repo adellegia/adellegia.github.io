@@ -42,9 +42,9 @@ Investigated the variation in the use of reason and emotion in communicating pol
 #### 6. Spotify-MatchedR
 _A Research Project for Machine Learning, Hertie School_ (November 2021 --- December 2021)
 
-An R shiny app for measuring music taste compatibility of 5 users based on their 100 most listened songs 2018-2020 using Spotify's Web API. Musical metrics like danceability and popularity were visualized using plotly.
+An R shiny app for measuring music taste compatibility of 5 users based on their 100 most listened songs 2018-2020 using Spotify's Web API. Musical metrics like danceability and popularity were visualized using plotly. _Try out the app here:_ [Spotify-MatchedR](https://adellegia.shinyapps.io/data-project-spotify-matchedr/).
 
-- _Github repo:_ [Spotify-MatchedR](https://adellegia.shinyapps.io/data-project-spotify-matchedr/)
+- _Github repo:_ [Spotify-MatchedR](https://github.com/adellegia/Spotify-MatchedR)
 
 #### 7. GetHelp
 _A Project for Data Structures and Algorithms, Hertie School_ (September 2021 --- December 2021)
