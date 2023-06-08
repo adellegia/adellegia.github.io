@@ -18,7 +18,7 @@ University of the Philippines --- Diliman (June 2012 --- June 2016)
 
 ## Professional Experience
 
-- Data Scientist <br?>
+- Data Scientist <br>
 Compass Lexecon (August 2022 --- present)
 
 - Research Assistant <br>
