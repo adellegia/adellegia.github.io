@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials
+title: My Tutorials
 subtitle: Watch My Tutorial Videos in R and Python
 ---
 

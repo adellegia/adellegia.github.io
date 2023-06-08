@@ -6,7 +6,9 @@ subtitle: Unveiling My Professional and Educational Journey
 
 ## Education
 
-- Master of Data Science for Public Policy, Hertie School of Governance in Berlin (September 2021 --- June 2023)
+- Master of Data Science for Public Policy (_Merit Scholar_), Hertie School of Governance in Berlin (September 2021 --- June 2023)
+
+- Master of Science in Statistics, (_9 units completed_) University of the Philippines --- Diliman (September 2020 --- June 2021)
 
 - Bachelor of Science in Statistics (_Cum Laude_), University of the Philippines --- Diliman (June 2012 --- June 2016)
 
