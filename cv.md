@@ -6,20 +6,20 @@ subtitle:
 
 ## Education
 
-Master of Data Science for Public Policy, Hertie School of Governance in Berlin (September 2021 - June 2023)
+- Master of Data Science for Public Policy, Hertie School of Governance in Berlin (September 2021 --- June 2023)
 
-Bachelor of Science in Statistics (_Cum Laude_) University of the Philippines - Diliman (June 2012 - June 2016)
+- Bachelor of Science in Statistics (_Cum Laude_) University of the Philippines --- Diliman (June 2012 --- June 2016)
 
 
 ## Professional Experience
 
-Data Scientist at Compass Lexecon (August 2022 - present)
+- Data Scientist at _Compass Lexecon_ (August 2022 --- present)
 
-Research Assistant at WZB Berlin Social Science Center (October 2021 - July 2022)
+- Research Assistant at _WZB Berlin Social Science Center_ (October 2021 --- July 2022)
 
-Economic Research and Statistics Consultant at Asian Development Bank (April 2019 - August 2021)
+- Economic Research and Statistics Consultant at _Asian Development Bank_ (April 2019 --- August 2021)
 
-Competition Policy Researcher at Philippine Competition Commission (November 2016 - April 2019)
+- Competition Policy Researcher at _Philippine Competition Commission_ (November 2016 --- April 2019)
 
 
 ## Publications
