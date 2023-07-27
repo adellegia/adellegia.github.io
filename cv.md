@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adelle's CV
-subtitle: My Professional and Educational Backgound
+subtitle: My professional and educational backgound
 ---
 
 <a href="/assets/pdfs/Arbo_Ma_Adelle_Gia_CV.pdf" title="Download" download>Download CV</a>

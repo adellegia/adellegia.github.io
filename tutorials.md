@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adelle's Tutorials
-subtitle: Watch My Tutorial Videos in R and Python
+subtitle: Watch my tutorials in R and Python
 ---
 
 ## Data Wrangling at Scale with R's data.table
