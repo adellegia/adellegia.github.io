@@ -8,13 +8,13 @@ subtitle: My professional and educational backgound
 
 ## Education
 
-- Master of Data Science for Public Policy (_Merit Scholar_) <br>
+- Master of Data Science for Public Policy (_Merit Scholar, GWA: 1.5_) <br>
 Hertie School of Governance in Berlin (September 2021 --- June 2023)
 
-- Master of Science in Statistics (_9 units completed_) <br>
+- Master of Science in Statistics (_9 units completed, GWA: 1.25_) <br>
 University of the Philippines --- Diliman (September 2020 --- June 2021)
 
-- Bachelor of Science in Statistics (_Cum Laude_) <br>
+- Bachelor of Science in Statistics (_Cum Laude, GWA: 1.717_) <br>
 University of the Philippines --- Diliman (June 2012 --- June 2016)
 
 
