@@ -5,7 +5,7 @@ subtitle: Adelle Arbo
 cover-img: 
 ---
 
-<img src="/assets/img/adellearbo.JPG" alt="Adelle" width="300" height="auto" style="display: block; margin: 0 auto;">
+<img src="/assets/img/adelle_arbo.JPG" alt="Adelle" width="300" height="auto" style="display: block; margin: 0 auto;">
 
 
 Hello! It's me, Adelle, originally from the sunny Philippines and now happily based in Berlin.
