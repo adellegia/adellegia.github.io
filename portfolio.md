@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Adelle's Portfolio
-subtitle: Explore my Data Science projects
+title: Adelle's Master's Portfolio
+subtitle: My academic projects
 ---
 
 #### 1. Predicting Merger Decision Outcomes of the European Commission: A Natural Language Processing and Machine Learning approach
